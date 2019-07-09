@@ -1,7 +1,6 @@
 # Desafio
 SEMANTIX: 
-Data  Science
-Big Data & Analytics
+Data  Science - Big Data & Analytics
 
 09/07/2019
 
